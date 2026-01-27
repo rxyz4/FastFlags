@@ -1,5 +1,6 @@
-// Roblox version : version-8b8c34790f814a73
+// Roblox version : version-f8734e043e1e40a2
 // Total FFlags  : 11880
+#pragma once
 #include <cstdint>
 
 namespace FFlags {

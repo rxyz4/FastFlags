@@ -4840,7 +4840,7 @@
     "HttpBatchApi_maxReqs": 2,
     "HttpBatchApi_maxWaitMs": 60,
     "HttpBatchApi_minWaitMs": 15,
-    "HttpBatchLimit": "€",
+    "HttpBatchLimit": "Â€",
     "HttpBlockWhenAppSuspended": false,
     "HttpCacheAllowEmptyUrlInAssetCacheHeaders": true,
     "HttpCacheAsyncWriterMaxPendingSize": "",
